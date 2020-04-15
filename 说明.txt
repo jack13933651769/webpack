@@ -1,0 +1,17 @@
+将 html js css img 进行打包
+
+打包成 html 加static文件  文件夹下有各种资源
+
+可以热更新，修改css，js能及时更新
+
+有webpackdevserver， 可以在缓存里编译进行查看，
+
+设置绝对路径
+
+es6，7编译成es5
+
+配置编译完可以看之前的源码
+
+配置map文件
+
+
